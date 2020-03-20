@@ -1,0 +1,16 @@
+{
+"shellLauncher.shells.windows": [
+{
+     "shell": "C:\\Program Files\\Git\\bin\\bash.exe",
+     "args":["1"],
+     "label": "Git Bash"
+},
+
+{
+    "shell": "C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\powershell.exe",
+    "args":["2"],
+    "label": "PowerShell"
+}
+],
+"python.pythonPath": "myvenv\\Scripts\\python.exe"
+}
